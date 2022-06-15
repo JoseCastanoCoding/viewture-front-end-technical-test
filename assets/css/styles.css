@@ -1,1 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;500&display=swap');
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.navbar>.container-fluid {
+    justify-content: space-around;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.navbar-nav {
+    flex-direction: row;
+}
