@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Viewture Front End Technical Test</strong></h1>
 
-[View the live project here](https://josecastanocoding.github.io/west-sussex-hot-drinks/)
+[View the live project here](https://josecastanocoding.github.io/viewture-front-end-technical-test/)
 
 This is a recreation of an image provided by Viewture in an HTML page.
 The focus, as per the instructions, is on the general HTML/CSS styling, such as page structure, colours, layout organisation. 
