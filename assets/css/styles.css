@@ -6,6 +6,10 @@ body {
     justify-content: space-around;
 }
 
+.bg-light {
+    background-color: #f6f5ef!important;
+}
+
 .navbar-brand {
     font-weight: 700;
     font-size: 40px;
@@ -13,4 +17,50 @@ body {
 
 .navbar-nav {
     flex-direction: row;
+}
+
+.hero-bar {
+    background-color: #02263A;
+    color: #ffff;
+}
+
+form {
+    width: 30%;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.form-control {
+    border-radius: 1.25rem;
+    border: 2px solid #02263A;
+}
+
+.form-label {
+    margin-bottom: 0;
+    margin-left: 25px;
+}
+
+.btn {
+    border-radius: 1.25rem;
+    width: 50%;
+    margin-left: 7rem;
+}
+
+.btn-primary {
+    background-color: #F74726;
+    border-color: #F74726;
+}
+
+#with-us-text {
+    color: #ffff;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.empty-row {
+    background-color: #02263A;
+    width: 100%;
 }
